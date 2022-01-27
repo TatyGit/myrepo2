@@ -2,11 +2,8 @@
 
 
 
-<img scr = "https://www.eatbetter.de/sites/eatbetter.de/files/styles/700_530/public/2020-10/fenchelsalat_88584.jpg"/>
-![Image](https://images.eatsmarter.de/sites/default/files/pinterest/433/191/446702.jpg)
-![Image](https://www.eatbetter.de/sites/eatbetter.de/files/styles/700_530/public/2020-10/fenchelsalat_88584.jpg)
-Inline-style: 
-![alt text](https://github.com/alfredovitale/myrepo2/blob/main/Salat-Folder/fenchel-orangen-salat.jpeg "Logo Title Text 1")
+
+<img alt="Orangensalat" width="980px" src="https://www.eatbetter.de/sites/eatbetter.de/files/styles/700_530/public/2020-10/fenchelsalat_88584.jpg" />
 
 
 
